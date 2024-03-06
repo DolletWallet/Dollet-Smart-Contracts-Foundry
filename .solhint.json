@@ -1,0 +1,16 @@
+{
+  "extends": "solhint:recommended",
+  "rules": {
+    "func-name-mixedcase": "off",
+    "max-states-count": "off",
+    "no-global-import": "off",
+    "no-empty-blocks": "off",
+    "not-rely-on-time": "off",
+    "compiler-version": "off",
+    "const-name-snakecase": "off",
+    "private-vars-leading-underscore": "off",
+    "var-name-mixedcase": "off",
+    "one-contract-per-file": "off",
+    "immutable-vars-naming": "off"
+  }
+}

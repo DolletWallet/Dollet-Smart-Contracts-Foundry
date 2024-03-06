@@ -1,0 +1,20 @@
+# Compiler files
+broadcast/
+report/
+cache/
+out/
+
+# Coverage
+filtered-lcov.info
+lcov.info
+coverage/
+
+# Dotenv file
+.env
+
+# IDEs
+.vscode
+.idea
+
+# Other
+.DS_Store
